@@ -1,4 +1,4 @@
-# Chetak-alar# Chetak Connect
+# Chetak-alarm Chetak Connect
 
 A lightweight EV charging time calculator and unplug reminder tool built with HTML, CSS, and JavaScript.
 
